@@ -1,6 +1,6 @@
 # StoryKimi - DeepSeek V3 Inspired Model
 
-A PyTorch implementation of a DeepSeek V3 inspired transformer model with Mixture of Experts (MoE), Latent Attention, and other advanced features.
+A PyTorch implementation of a DeepSeek V3 inspired transformer model with Mixture of Experts (MoE), Multi-Head Latent Attention, Load Free AuxLoss trained on TinyStories dataset (approx 1 B tokens) with Muon optimizer.
 
 ![StoryKimi Model](images/image.png)
 
